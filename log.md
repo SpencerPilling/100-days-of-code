@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 01: July , 2019
+### Day 01: July 31, 2019
 
 **Today's Progress**: Learned Git to start this Journal. Read about Markup.
 
