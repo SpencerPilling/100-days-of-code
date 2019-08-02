@@ -11,3 +11,12 @@
 
 **Link to work:** [My GitHub](http://www.github.com/SpencerPilling)
 
+### Day 02: Aug 01, 2019
+
+**Today's Progress**: I started my Technical Doc Page Project. Im doing it on the SASS Compiler. I did the HTML markup for the page and some styling. I have the sidebar displayed and one heading and paragraph on the content side.
+
+**Thoughts:** So, sitting down with a blank document kinda made my mind go blank for a few minutes. No one to parrot me through and It felt like I forgot everything. Im really glad that I started taking notes and was able to go back and read them. It helped get the mind working again and remember what the hell I was doing. I chose to try and do this page with CSS Grid since it was the last thing I learned. Im happy with my progress today and look forward tomorrow. Im also looking forward to going to bed at a decent time. :grin:
+
+**References:** [SASS Compiler](https://sass-lang.com/)
+                
+**Link to work:** [My GitHub](http://www.github.com/SpencerPilling/FCC_Projects/Technical_Doc_Page/)
