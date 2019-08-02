@@ -19,4 +19,4 @@
 
 **References:** [SASS Compiler](https://sass-lang.com/)
                 
-**Link to work:** [Technical Doc Page Project](http://www.github.com/SpencerPilling/FCC_Projects/Technical_Doc_Page)
+**Link to work:** [Technical Doc Page Project](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Technical_Doc_Page)
