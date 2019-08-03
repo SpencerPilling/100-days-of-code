@@ -30,3 +30,13 @@
 **References:** [SASS Compiler](https://sass-lang.com/)
                 
 **Link to work:** [Technical Doc Page Project](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Technical_Doc_Page)
+
+### Day 04: Aug 03, 2019
+
+**Today's Progress**: Worked on Technical Doc Page. CSS Grid Box was not working for me so I switched content layout to flex box. Took a while to get everything looking the way I wanted. I also added some more content. 
+
+**Thoughts:** Im still confused a bit by the whole CSS layout thing. I hope with practice that I will start to get the hang of it. 
+
+**References:** [SASS Compiler](https://sass-lang.com/)
+                
+**Link to work:** [Technical Doc Page Project](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Technical_Doc_Page)
