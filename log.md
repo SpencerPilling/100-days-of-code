@@ -20,3 +20,13 @@
 **References:** [SASS Compiler](https://sass-lang.com/)
                 
 **Link to work:** [Technical Doc Page Project](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Technical_Doc_Page)
+
+### Day 03: Aug 02, 2019
+
+**Today's Progress**: I fixed the responsive issue Fleuron Gnadekpa(@FGnadekpa) found when looking at my projects on a mobile device. I never included <meta name="viewport"> tag in the <head>. So the layout were just staying the same on mobile and not acting to media query. I also changed the NavBar in my Tech Doc Page. I used flexbox inside of CSS grid to make it work the way I wanted. I then added some content to the main doc and styled it abit.
+
+**Thoughts:** Im happy with what I have done so far on the Tech Doc Page. If I get stuck on something I either go back to my notes on the CSS course I took on udemy or I just search stackoverflow for a solution. Im sure this is how you learn right?
+
+**References:** [SASS Compiler](https://sass-lang.com/)
+                
+**Link to work:** [Technical Doc Page Project](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Technical_Doc_Page)
