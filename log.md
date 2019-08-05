@@ -41,7 +41,7 @@
                 
 **Link to work:** [Technical Doc Page Project](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Technical_Doc_Page)
 
-### Day 04: Aug 03, 2019
+### Day 05: Aug 03, 2019
 
 **Today's Progress**: Finally Finished the Technical Document Page!! YAY. I added all the content. Made the links in the navbar nice looking. Made the page responsive using media query's. Then I added a bit of styling to make it all look nice.
 
