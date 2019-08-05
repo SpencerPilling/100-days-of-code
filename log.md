@@ -40,3 +40,14 @@
 **References:** [SASS Compiler](https://sass-lang.com/)
                 
 **Link to work:** [Technical Doc Page Project](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Technical_Doc_Page)
+
+### Day 04: Aug 03, 2019
+
+**Today's Progress**: Finally Finished the Technical Document Page!! YAY. I added all the content. Made the links in the navbar nice looking. Made the page responsive using media query's. Then I added a bit of styling to make it all look nice.
+
+**Thoughts:** I feel so damn slow! everything takes me forever to figure out, especially with those media query's. Just getting all the breakpoints to work out the way I wanted them to. Im still a little shaky with the whole flexbox layout stuff.
+
+**References:** [SASS Compiler](https://sass-lang.com/)
+                
+**Link to work:** [Technical Doc Page Project (GitHub)](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Technical_Doc_Page)
+**Link to work:** [Technical Doc Page Project (Actual Page)](http://www.spencerpilling.com/FCC_Projects/Technical_Doc_Page)
