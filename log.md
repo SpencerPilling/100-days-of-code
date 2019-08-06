@@ -60,7 +60,7 @@
 **Thoughts:** This project went a lot smoother. Compared to the first day, I started coding and actually felt like I knew what I was doing a little bit. lol! Googled some stuff for sure.
 
 **References:** [W3 School CSS Section](https://www.w3schools.com/css/)
-#                
+                
 **Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Personal_Portfolio)
 
 ### Day 07: Aug 06, 2019
@@ -70,5 +70,5 @@
 **Thoughts:** I felt really confident today finishing this project and claiming my certificate!
 
 **References:** [Personal Portfolio Project (Actual Link)](http://www.spencerpilling.com/FCC_Projects/Personal_Portfolio)
-#                
+                
 **Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Personal_Portfolio)
