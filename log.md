@@ -50,4 +50,15 @@
 **References:** [SASS Compiler](https://sass-lang.com/)
                 
 **Link to work:** [Technical Doc Page Project (GitHub)](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Technical_Doc_Page)
+#
 **Link to work:** [Technical Doc Page Project (Actual Page)](http://www.spencerpilling.com/FCC_Projects/Technical_Doc_Page)
+
+### Day 06: Aug 05, 2019
+
+**Today's Progress**: Got to work on the Personal Portfolio page. HTML Markup complete and Styling done. Got to finally test out my CSS Grid abilities. I hope to finish the project in the morning.
+
+**Thoughts:** This project went a lot smoother. Compared to the first day, I started coding and actually felt like I knew what I was doing a little bit. lol! Googled some stuff for sure.
+
+**References:** [W3 School CSS Section](https://www.w3schools.com/css/)
+                
+**Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Personal_Portfolio)
