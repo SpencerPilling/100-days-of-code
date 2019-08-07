@@ -72,3 +72,13 @@
 **References:** [Personal Portfolio Project (Actual Link)](http://www.spencerpilling.com/FCC_Projects/Personal_Portfolio)
                 
 **Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Personal_Portfolio)
+
+### Day 08: Aug 07, 2019
+
+**Today's Progress**: Worked on a bug on the portfolio project. Thought I was done buy the CSS Grid keeps floating out of its section, on the iphone, not sure about android device. 
+
+**Thoughts:** Kinda frustrating, could not figure it out, works fine on PC and Mac but not on the iphone. Ill have to google some more.
+
+**References:** [Personal Portfolio Project (Actual Link)](http://www.spencerpilling.com/FCC_Projects/Personal_Portfolio)
+                
+**Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Personal_Portfolio)
