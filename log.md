@@ -92,3 +92,13 @@
 **References:** [None that I can think of]
                 
 **Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
+
+### Day 10: Aug 09, 2019
+
+**Today's Progress**: Did some more HTML Markup and CSS Styling. Got the inital Layout done. Just have to figure out how to get picture and paragraph to flex wrap properly.
+
+**Thoughts:** Only having 1 hour to code while visiting with family just isnt cutting it. Just start to get into figuring something out and then I have to go do something. :smile:
+
+**References:** [None that I can think of]
+                
+**Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
