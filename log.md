@@ -82,3 +82,13 @@
 **References:** [Personal Portfolio Project (Actual Link)](http://www.spencerpilling.com/FCC_Projects/Personal_Portfolio)
                 
 **Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Personal_Portfolio)
+
+### Day 09: Aug 08, 2019
+
+**Today's Progress**: Got started on my Spencer Pilling Webpage. HTML Markup done and started in the CSS Styling. 
+
+**Thoughts:** Looking forward to getting this site looking really nice and able to put blog posts about my learning to code.
+
+**References:** [None that I can think of]
+                
+**Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
