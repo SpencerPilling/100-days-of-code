@@ -102,3 +102,13 @@
 **References:** [None that I can think of]
                 
 **Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
+
+### Day 11: Aug 10, 2019
+
+**Today's Progress**: Got webpage looking the way I wanted. Just a few touches to add. I changed the colors, added some content, made it responsive.
+
+**Thoughts:** Finally fixed the image float problem I was experiencing. Visiting with family doesnt give me much time to code, but im still managing to put the work in.
+
+**References:** [None that I can think of]
+                
+**Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
