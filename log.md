@@ -65,7 +65,7 @@
 
 ### Day 07: Aug 06, 2019
 
-**Today's Progress**: Finsihed the Personal Portfolio Project! YAY!! Got my certifcate for Responsive Web Design from FreeCodeCamp. So Excited!
+**Today's Progress**: Finished the Personal Portfolio Project! YAY!! Got my certificate for Responsive Web Design from FreeCodeCamp. So Excited!
 
 **Thoughts:** I felt really confident today finishing this project and claiming my certificate!
 
@@ -95,9 +95,9 @@
 
 ### Day 10: Aug 09, 2019
 
-**Today's Progress**: Did some more HTML Markup and CSS Styling. Got the inital Layout done. Just have to figure out how to get picture and paragraph to flex wrap properly.
+**Today's Progress**: Did some more HTML Markup and CSS Styling. Got the initial Layout done. Just have to figure out how to get picture and paragraph to flex wrap properly.
 
-**Thoughts:** Only having 1 hour to code while visiting with family just isnt cutting it. Just start to get into figuring something out and then I have to go do something. :smile:
+**Thoughts:** Only having 1 hour to code while visiting with family just isn't cutting it. Just start to get into figuring something out and then I have to go do something. :smile:
 
 **References:** [None that I can think of]
                 
@@ -107,8 +107,18 @@
 
 **Today's Progress**: Got webpage looking the way I wanted. Just a few touches to add. I changed the colors, added some content, made it responsive.
 
-**Thoughts:** Finally fixed the image float problem I was experiencing. Visiting with family doesnt give me much time to code, but im still managing to put the work in.
+**Thoughts:** Finally fixed the image float problem I was experiencing. Visiting with family doesn't give me much time to code, but im still managing to put the work in.
 
 **References:** [None that I can think of]
                 
 **Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
+
+### Day 12: Aug 11, 2019
+
+**Today's Progress**: This morning I got up early to start the Javascript section on FreeCodeCamp. Banged off 30 lessons.
+
+**Thoughts:** It is very similar to past languages I have used. Im excited to learn but get nervous when some the mathematic principles get introduced.
+
+**References:** [None that I can think of]
+                
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
