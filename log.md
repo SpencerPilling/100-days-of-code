@@ -91,7 +91,7 @@
 
 **References:** [None that I can think of]
                 
-**Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
+**Link to work:** [SpencerPilling.com (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
 
 ### Day 10: Aug 09, 2019
 
@@ -101,7 +101,7 @@
 
 **References:** [None that I can think of]
                 
-**Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
+**Link to work:** [SpencerPilling.com (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
 
 ### Day 11: Aug 10, 2019
 
@@ -111,7 +111,7 @@
 
 **References:** [None that I can think of]
                 
-**Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
+**Link to work:** [SpencerPilling.com (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
 
 ### Day 12: Aug 11, 2019
 
