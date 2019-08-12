@@ -23,7 +23,7 @@
 
 ### Day 03: Aug 02, 2019
 
-**Today's Progress**: I fixed the responsive issue Fleuron Gnadekpa(@FGnadekpa) found when looking at my projects on a mobile device. I never included a meta viewport in the head tag. So the layout were just staying the same on mobile and not acting to media query. I also changed the NavBar in my Tech Doc Page. I used flexbox inside of CSS grid to make it work the way I wanted. I then added some content to the main doc and styled it abit.
+**Today's Progress**: I fixed the responsive issue Fleuron Gnadekpa(@FGnadekpa) found when looking at my projects on a mobile device. I never included a meta viewport in the head tag. So the layout were just staying the same on mobile and not acting to media query. I also changed the NavBar in my Tech Doc Page. I used flexbox inside of CSS grid to make it work the way I wanted. I then added some content to the main doc and styled it a bit.
 
 **Thoughts:** Im happy with what I have done so far on the Tech Doc Page. If I get stuck on something I either go back to my notes on the CSS course I took on udemy or I just search stackoverflow for a solution. Im sure this is how you learn right?
 
@@ -118,6 +118,16 @@
 **Today's Progress**: This morning I got up early to start the Javascript section on FreeCodeCamp. Banged off 30 lessons.
 
 **Thoughts:** It is very similar to past languages I have used. Im excited to learn but get nervous when some the mathematic principles get introduced.
+
+**References:** [None that I can think of]
+                
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
+
+### Day 13: Aug 12, 2019
+
+**Today's Progress**: Everyone is still sleeping in the house so I knocked out some more Javascript lessons with FreeCodeCamp.
+
+**Thoughts:** There is so much information to take in. Im glad im taking notes. I wrote my first function today so that was exciting. I really want to get back to building projects. I feel like that is where all the magic happens.
 
 **References:** [None that I can think of]
                 
