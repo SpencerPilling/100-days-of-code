@@ -132,3 +132,23 @@
 **References:** [None that I can think of]
                 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
+
+### Day 14: Aug 13, 2019
+
+**Today's Progress**: Today was not as successful as previous days. I am currently traveling back home. I managed to get a few Javascript lessons done while we drove a couple hours to visit family.
+
+**Thoughts:** I feel being back home will be a better environment to start learning Javascript. Maybe tomorrow I will just work on fixing up some of my previous project.
+
+**References:** [None that I can think of]
+                
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
+
+### Day 15: Aug 14, 2019
+
+**Today's Progress**: It was better doing the lessons in our hotel room tonight. I learned about Boolean and the operators that are used with it. Looking forward to more learning when I get home tomorrow! 
+
+**Thoughts:** Working at a desk learning things is WAY better than in the truck with spotty internet service.
+
+**References:** [None that I can think of]
+                
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
