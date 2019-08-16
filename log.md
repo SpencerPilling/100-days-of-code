@@ -152,3 +152,13 @@
 **References:** [None that I can think of]
                 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
+
+### Day 16: Aug 15, 2019
+
+**Today's Progress**: Today after work I learned more Javascript, else if Statements, and switch(), its is a lot easier to write for sure, I like switch(). 
+
+**Thoughts:** Glad to be back home and back to work. Even though im exhausted from traveling. Gonna go catch up on some sleep now! 
+
+**References:** [None that I can think of]
+                
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
