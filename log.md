@@ -162,3 +162,13 @@
 **References:** [None that I can think of]
                 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
+
+### Day 17: Aug 16, 2019
+
+**Today's Progress**: Finsished the JavaScript Booleans section by coding the Counting Cards exercise. Just a short 30 mins of code tonight. Looks like Objects are the next set of lessons. Feeling too tired tonight to start it.   
+
+**Thoughts:** The card counting lesson was fun. I solved a simple problem with the things that I learned so far. It felt really good. Id like to code some more but I am really tired and dont feel like I will remember anything.  
+
+**References:** [None that I can think of]
+                
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
