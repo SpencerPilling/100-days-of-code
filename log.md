@@ -172,3 +172,13 @@
 **References:** [None that I can think of]
                 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
+
+### Day 18: Aug 17, 2019
+
+**Today's Progress**: Did all the lessons on Javascript Objects and finished up with the Record Collection project with FreeCodeCamp.     
+
+**Thoughts:** Objects are really neat. I Enjoyed learning them. Manipulating Complex Objects was a little scary but I finally AH-HA'd it! I almost figured out the end lesson. But I had to look at the hint code finally.
+
+**References:** [Manipulating Complex Objects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects)
+                
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
