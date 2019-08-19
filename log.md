@@ -182,3 +182,13 @@
 **References:** [Manipulating Complex Objects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects)
                 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
+
+### Day 19: Aug 18, 2019
+
+**Today's Progress**: Learned about Javascript While Loops, For Loops, and Do While loops. Learned that one typo with the word "length" took me 10 minutes to figure out! Once more section then I will be done the basic Javascript section of freeCodeCamp.     
+
+**Thoughts:** These loops are pretty complex at times and kinda scary. I managed to do most the exercise without hints excecpt the last one. My mind went blank with no examples. I had the concept down but could not pull the code from my head.
+
+**References:** [None right now]
+                
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
