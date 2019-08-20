@@ -192,3 +192,13 @@
 **References:** [None right now]
                 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
+
+### Day 20: Aug 19, 2019
+
+**Today's Progress**: Finished the Javascript Basic Section on freeCodeCamp! Learned Math.random(), Math.floor(), parseInt(), the Conditional (Ternary) Operator. Yay!
+
+**Thoughts:** Just a short coding night tonight. Gonna spend some time learning about VSCode snippets now I think. I really miss coding. 
+
+**References:** [None right now]
+                
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
