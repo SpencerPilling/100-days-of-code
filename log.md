@@ -202,3 +202,13 @@
 **References:** [None right now]
                 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/sensi)
+
+### Day 21: Aug 20, 2019
+
+**Today's Progress**: Put on the headphones, Opened up VSCode, and worked on my website. Changed colors and sizing of text and fixed some things that did not look good in my @media query's.
+
+**Thoughts:** It was nice just to chill tonight and code with music. 
+
+**References:** [None right now]
+                
+**Link to work:** [SpencerPilling.com (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
