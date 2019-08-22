@@ -212,3 +212,13 @@
 **References:** [None right now]
                 
 **Link to work:** [SpencerPilling.com (GitHub)](http://www.github.com/SpencerPilling/SpencerPilling)
+
+### Day 22: Aug 22, 2019
+
+**Today's Progress**: I started The Complete JavaScript Course on Udemy, finished a couple of sections.
+
+**Thoughts:** I have changed my learning schedule to in the morning. Last night I was so exhausted after work and felt that trying to learn new things was not beneficial.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
