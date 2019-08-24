@@ -222,3 +222,13 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 23: Aug 23, 2019
+
+**Today's Progress**: Did some more sections on the Basics of Javascript course. Did a mini coding challenge on calculating BMI's of two people and comparing them to define a boolean variable and print to console. NAILED IT. lol.
+
+**Thoughts:** It's nice to get your hand held while going through these basic principles again. Colt Steele really explains things will in the Udemy course. I am really enjoying it.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
