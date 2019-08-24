@@ -232,3 +232,13 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 24: Aug 24, 2019
+
+**Today's Progress**: More sections done on basic JavaScript course. Re cap on If / Else statements, Ternary operators, and switch. Did another little codding challenge finding a winner of three basketball's team. 
+
+**Thoughts:** Its nice to re-cap all of these basics again in a different media and also take better notes.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
