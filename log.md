@@ -242,3 +242,13 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 25: Aug 25, 2019
+
+**Today's Progress**: Fixed a bug on my FCC_Projects/Profile_Portfolio page. CSS Grid was not displaying on mobile viewport properly due to wrong fr units? Also completed the Functions and Functions Statements and Expressions on the Javascript course. 
+
+**Thoughts:** I was glad to fix that bug. Im still not quiet happy with the overall layout of the profile page. Maybe work on it at a later date.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Personal_Portfolio)
