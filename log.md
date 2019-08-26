@@ -252,3 +252,13 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [Personal Portfolio Project (GitHub)](http://www.github.com/SpencerPilling/FCC_Projects/tree/master/Personal_Portfolio)
+
+### Day 26: Aug 26, 2019
+
+**Today's Progress**: Started the arrays section of @udemy Javascript course. Wrote a little tip calculator and stored values to some arrays for its Coding Challenge. 
+
+**Thoughts:** It was nice to have Jonas explain these again. I have a bit better understanding.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
