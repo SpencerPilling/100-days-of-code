@@ -262,3 +262,13 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 27: Aug 27, 2019
+
+**Today's Progress**: Learned about Objects and Methods in Jonas Javascript course on @udemy. Also learned about 'this' inside objects. Completed another coding challenge! 
+
+**Thoughts:** Really enjoying this course and being able to complete these beginner challenges.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
