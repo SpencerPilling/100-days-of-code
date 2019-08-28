@@ -272,3 +272,13 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 28: Aug 28, 2019
+
+**Today's Progress**: Learned about Loops and Iteration this morning and completed another coding challenge!  
+
+**Thoughts:** I enjoy the problem solving aspect these coding challenges, its also nice to compare my solution to the instructors.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
