@@ -282,3 +282,13 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 29: Aug 29, 2019
+
+**Today's Progress**: Today was learning all about how JavaScript works. Javascript Engines and Parsers, Execution Contexts and Execution Stack, Hoisting, Scoping and the Scope Chain, and the 'this' keyword about Method Borrowing! I took so many notes!
+
+**Thoughts:** It was good to understand some of the theory behind the language. It took a bit to sink in but I understand how everything works behind the scenes now.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
