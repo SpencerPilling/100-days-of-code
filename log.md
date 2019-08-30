@@ -292,3 +292,13 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 30: Aug 30, 2019
+
+**Today's Progress**: Finally! Learned about DOM (Document Object Model) and DOM Manipulation. I now know what people are talking about when they say "DOM" :). I learned how to use document.query to change text, HTML, or CSS in a page. It is so cool to finally put this Javascript I have been learning into a webpage. Really excited to learn more. 
+
+**Thoughts:** Im starting to get really excited to put all these Javascript concepts I have learned into a webpage.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
