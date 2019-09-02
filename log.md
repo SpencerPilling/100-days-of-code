@@ -302,3 +302,13 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 31: Sept 01, 2019
+
+**Today's Progress**: Finished the PIG Dice game with Jonas on his @udemy Javascript course. Learned about Events and Even Listeners, function Callbacks, anonymous functions, getElementById(), and how to set a State variable.  
+
+**Thoughts:** It was awesome to finish the game. Im looking forward to doing the three coding challenges there is to do in the morning.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
