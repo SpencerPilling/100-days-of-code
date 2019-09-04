@@ -312,3 +312,13 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 32: Sept 03, 2019
+
+**Today's Progress**: Completed two of the Challenges on this PIG Dice game. Added an input field for the user to set the winning score. Added a variable and a statement if A player rolls two sixes in a row they loose their score. Also added some alerts to notify players.  
+
+**Thoughts:** It was nice to complete these challenges. I have been depressed this weekend and it felt good to get back into the code.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
