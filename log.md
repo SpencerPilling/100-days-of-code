@@ -326,7 +326,18 @@
 ### Day 33: Sept 04, 2019
 
 **Today's Progress**: Completed third challenge of the Dice Game. Added two dice to the game! All done section 4. Moving on to Section 5, Advanced JavaScript: Objects and Functions!  
+
 **Thoughts:** Looking forward to this next section. Having lots of fun with Javascript.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
+
+### Day 34: Sept 05, 2019
+
+**Today's Progress**: Started Advanced Javascript Section. Writing Function Constructors, Learning Inheritance and Prototypes and The Prototype Chain. Wow. This was A LOT to try and take in.  
+
+**Thoughts:** I sorta get it, But I think after work I will be going back over everything again to try and grasp all these new concepts.
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
