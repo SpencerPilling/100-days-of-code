@@ -342,3 +342,13 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 35: Sept 06, 2019
+
+**Today's Progress**: I sat down this morning and reviewed my notes and went over yesterdays JavaScript Lesson. I planned on doing some more code tonight but just got home, late, from work, and its time for bed. Should I even be counting today?
+
+**Thoughts:** I feel like I have missed to many days.. even though today I did sit down this morning for 45 minutes to review what I learned yesterday. I just did not code anything. 
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
