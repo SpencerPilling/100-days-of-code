@@ -352,3 +352,13 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 36: Sept 07, 2019
+
+**Today's Progress**: Today I learned about viewing the Prototype chain in the console, the Object.create method, Primitives vs Objects, and First Class Functions: Passing Functions as Arguments. This is very helpful for doing calculations of Array data!
+
+**Thoughts:** Felt a lot better this morning. Got to write some code and learn more about Objects and Functions. 
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
