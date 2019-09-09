@@ -363,11 +363,22 @@
                 
 **Link to work:** [None right now]
 
-### Day 37: Sept 07, 2019
+### Day 37: Sept 08, 2019
 
 **Today's Progress**: Today was learning more Javascript! Functions returning Functions, IIFE, and Closers.
 
 **Thoughts:** I finally had a day off work! I wanted to sit down in my office all day but instead I got things done around the house and prepared for next week. + 1hr nap!.
+ 
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
+
+### Day 38: Sept 09, 2019
+
+**Today's Progress**: This morning, more JavaScript. Learned about Bind, Call, and Apply for functions. Started Coding challenge #7, A mini quiz done in the console using functions constructors and other things we have covered.
+
+**Thoughts:** I love these coding challenges. This morning I was drawing a blank for a bit then got coding. I had to sneak a peak at the answer because I was not figuring it out. Once I looked how the code was structured then I wrote it myself. I understand the concepts, just kinda forgot how to write it. More Practice I guess.
  
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
