@@ -362,3 +362,14 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 37: Sept 07, 2019
+
+**Today's Progress**: Today was learning more Javascript! Functions returning Functions, IIFE, and Closers.
+
+**Thoughts:** I finally had a day off work! I wanted to sit down in my office all day but instead I got things done around the house and prepared for next week. + 1hr nap!.
+ 
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
