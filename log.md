@@ -384,3 +384,14 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 39: Sept 10, 2019
+
+**Today's Progress**: Finished Section 5 of Jonas Schmedtman's Udemy course! I completed the two coding challenges at the end of the section with some help from google. 
+
+**Thoughts:** It felt really good to complete these challenges on my own. Super excited to dive into the next section which is "The Budget App". 
+ 
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
