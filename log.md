@@ -395,3 +395,14 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
+
+### Day 40: Sept 11, 2019
+
+**Today's Progress**: Watched Jonnas solve our last coding challenges. He used a closure for the keep score counter. I understand why it is used, its about keeping the variable private. The way the code is working is what I am not getting. I read some more about closures and reviewed the lectures again. 
+
+**Thoughts:** I was excited to move on the the new Section but I want to fully understand this score counter and call back.
+ 
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
+                
+**Link to work:** [None right now]
