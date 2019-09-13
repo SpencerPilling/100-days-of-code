@@ -369,7 +369,6 @@
 
 **Thoughts:** I finally had a day off work! I wanted to sit down in my office all day but instead I got things done around the house and prepared for next week. + 1hr nap!.
  
-
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
 **Link to work:** [None right now]
@@ -379,7 +378,6 @@
 **Today's Progress**: This morning, more JavaScript. Learned about Bind, Call, and Apply for functions. Started Coding challenge #7, A mini quiz done in the console using functions constructors and other things we have covered.
 
 **Thoughts:** I love these coding challenges. This morning I was drawing a blank for a bit then got coding. I had to sneak a peak at the answer because I was not figuring it out. Once I looked how the code was structured then I wrote it myself. I understand the concepts, just kinda forgot how to write it. More Practice I guess.
- 
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
@@ -390,7 +388,6 @@
 **Today's Progress**: Finished Section 5 of Jonas Schmedtman's Udemy course! I completed the two coding challenges at the end of the section with some help from google. 
 
 **Thoughts:** It felt really good to complete these challenges on my own. Super excited to dive into the next section which is "The Budget App". 
- 
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
@@ -401,8 +398,26 @@
 **Today's Progress**: Watched Jonnas solve our last coding challenges. He used a closure for the keep score counter. I understand why it is used, its about keeping the variable private. The way the code is working is what I am not getting. I read some more about closures and reviewed the lectures again. 
 
 **Thoughts:** I was excited to move on the the new Section but I want to fully understand this score counter and call back.
- 
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)
                 
+**Link to work:** [None right now]
+
+### Day 41: Sept 12, 2019
+
+**Today's Progress**: Went over notes on closures and thanks to help from @itsjellyant on twitter, I was able to understand more about closures and the scope of Javascript.
+
+**Thoughts:** It was so awesome to have someone from the community reach out and help me through the process of learning what a closure was.
+
+**References:** [Article about JavaScript Closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+                
+**Link to work:** [None right now]
+
+### Day 42: Sept 13, 2019
+
+**Today's Progress**: Started Section 6 of JavaScript Course. The first thing we did, An IIFE and A CLOSURE. Learned about Modules, Data Encapsulation, and Separations of concerns. So we only expose an API. A Public Interface. 
+
+**Thoughts:** Learning how the architecture of an application is built is really interesting and I am excited to move forward! 
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
