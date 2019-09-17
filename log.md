@@ -430,3 +430,13 @@
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
+
+### Day 44: Sept 17, 2019
+
+**Today's Progress**: Sec 6 of JS Course. Learned how to create and call a init function to setup our event listeners, created our first data structure to keep expenses and incomes in separate arrays but within the same object.
+
+**Thoughts:** Glad to be back learning JS, we are really going through this course fast and It sometimes seems overwhelming like I am just parroting. I stopped and reviewed the code we did so that I make sure that I am understanding exactly what we are doing.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
+
