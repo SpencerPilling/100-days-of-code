@@ -421,3 +421,12 @@
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
+
+### Day 43: Sept 16, 2019
+
+**Today's Progress**: Sec 6 of JS Course. Learned how to make our UI Module work with Global Controller in this budget app. Learned Each Key has a keyCode to work with the keypress event listener.
+
+**Thoughts:** I took the weekend off and just geeked out on my systems. Running Manjaro Linux on my Gaming PC now.  
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
