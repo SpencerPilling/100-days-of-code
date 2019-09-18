@@ -440,3 +440,11 @@
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
 
+### Day 45: Sept 18, 2019
+
+**Today's Progress**: Sec 6 of JS Course. We did some DOM manipulation today. Learned how to add large strings of HTML with input values into the DOM using insertAdjacentHTML();
+
+**Thoughts:** Pretty cool stuff! I like when our code makes the magic happen in our DOM!
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
