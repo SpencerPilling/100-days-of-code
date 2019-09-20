@@ -448,3 +448,12 @@
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
+
+### Day 46: Sept 20, 2019
+
+**Today's Progress**: Sec 6 of JS Course. Learned how to change our input values list into an array using slice.call() then cleared the values using a forEach() loop on the array. Also learned about parseFloat() to change our string value into a number.
+
+**Thoughts:** Pretty neat stuff to learn. Missed a day yesterday but I was called into work early and didn't get my morning Code in!
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
