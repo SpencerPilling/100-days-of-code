@@ -457,3 +457,12 @@
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
+
+### Day 47: Sept 26, 2019
+
+**Today's Progress**: Sec 6 of JS Course. Created some budget calculating functions. Used a forEach() loop to add the sums of our totals and expenses. 
+
+**Thoughts:** I have been sick for the past few days. Glad to be back coding, still not 100%. I will hopefully feel better tomorrow.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
