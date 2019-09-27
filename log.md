@@ -466,3 +466,12 @@
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
+
+### Day 48: Sept 27, 2019
+
+**Today's Progress**: Sec 6 of JS Course. Started coding the 'Delete' function of the budget app. Learned about more DOM manipulation using Event Bubbling, Event Targeting, and DOM Traversing. Climbing all around the DOM! 
+
+**Thoughts:** Looking forward to finishing this Budget app!
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
