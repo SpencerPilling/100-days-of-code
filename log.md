@@ -475,3 +475,12 @@
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
+
+### Day 49: Oct 05, 2019
+
+**Today's Progress**: After a week off I went back and reviewed our last lecture in our JavaScript course. My app was not working properly, Spent a good hour going over my code until I found the type. I had "id" instead of "ID". So happy when I figured it out!
+
+**Thoughts:** It has been a week since I sat down and did some coding. Life really threw a wrench in things. I got sick, grandma fell down and broke her hip, and my wife's brother was diagnosed with stage 4 cancer. Fuck cancer. Glad to be back coding.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
