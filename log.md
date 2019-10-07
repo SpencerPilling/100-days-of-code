@@ -478,9 +478,18 @@
 
 ### Day 49: Oct 05, 2019
 
-**Today's Progress**: After a week off I went back and reviewed our last lecture in our JavaScript course. My app was not working properly, Spent a good hour going over my code until I found the type. I had "id" instead of "ID". So happy when I figured it out!
+**Today's Progress**: After a week off I went back and reviewed our last lecture in our JavaScript course. My app was not working properly, Spent a good hour going over my code until I found the typo. I had "id" instead of "ID". So happy when I figured it out!
 
 **Thoughts:** It has been a week since I sat down and did some coding. Life really threw a wrench in things. I got sick, grandma fell down and broke her hip, and my wife's brother was diagnosed with stage 4 cancer. Fuck cancer. Glad to be back coding.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
+
+### Day 50: Oct 06, 2019
+
+**Today's Progress**: Sec 6 of JS Course. Tonight we learned about the map method to pull a specific index out of an array. Then we learned the splice method to delete that index. Our budget app now removes a specific data entry when the user clicks on the delete button.
+
+**Thoughts:** It has been a bit shaky getting back into things. At first I felt like I had forgotten everything, but after tonights session it is all coming back to me. I guess thats why they say try not to miss more than a day of coding. Keep up that habit.
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
