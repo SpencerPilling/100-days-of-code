@@ -489,7 +489,16 @@
 
 **Today's Progress**: Sec 6 of JS Course. Tonight we learned about the map method to pull a specific index out of an array. Then we learned the splice method to delete that index. Our budget app now removes a specific data entry when the user clicks on the delete button.
 
-**Thoughts:** It has been a bit shaky getting back into things. At first I felt like I had forgotten everything, but after tonights session it is all coming back to me. I guess thats why they say try not to miss more than a day of coding. Keep up that habit.
+**Thoughts:** It has been a bit shaky getting back into things. At first I felt like I had forgotten everything, but after tonights session it is all coming back to me. I guess thats why they say try not to miss more than a day of coding. Keep up that habit to keep things fresh in your mind. Maybe tomorrow I will review my notes on this section.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
+
+### Day 51: Oct 07, 2019
+
+**Today's Progress**: Sec 6 of JS Course. More DOM Manipulation! YAY! the user can now delete an income or expense element from our app then it updates this budget. I enjoy seeing all the coding we are doing come to life. Tomorrow we will be coding a percentage calculator. 
+
+**Thoughts:** Every time I sit down and code I feel like I am learning so much. It was nice today because I did not feel so shaky. I reviewed all the code in our app just to remember how everything thing is working. 
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
