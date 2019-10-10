@@ -502,3 +502,12 @@
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
+
+### Day 52: Oct 09, 2019
+
+**Today's Progress**: Sec 6 of JS Course. Just a quick session tonight. We coded up a percentage calculator into our budget controller to add the percentages of each expense that the user inputs.
+
+**Thoughts:** I slept in this morning and missed my coding window. Wifey is home from work this week, so my nights are dedicated to spending time with her of course :). 
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
