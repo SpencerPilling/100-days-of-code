@@ -33,3 +33,12 @@
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
+
+### Day 05: Oct 26, 2019
+
+**Today's Progress**: Got home from a unexpected work day. I felt to tired to dive into the coding challenge so instead I did some sections on @freeCodeCamp. Knocked off 13 lessons on the ES6 Section of the JavaScript Certification. Also got to add some more things to my ES6 notes.  
+
+**Thoughts:** Got up late. Felt Tired. Tired after work. Not the greatest day but at least I snuck in some coding.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
