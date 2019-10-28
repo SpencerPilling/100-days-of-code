@@ -42,3 +42,12 @@
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
+
+### Day 06: Oct 28, 2019
+
+**Today's Progress**: ES6 Coding Challenge, Display results for a City Report that includes Parks and Streets. At first, like always,I stared at the screen trying to figure where to start. I made a class for names and build years, then sub classes for the data of streets and parks. A lot of going back to my notes and also searching on the web. Hope to finish after work.
+
+**Thoughts:** I love these coding challenges, they really get the brain moving! lol.
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
