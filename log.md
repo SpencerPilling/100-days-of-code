@@ -51,3 +51,12 @@
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
+
+### Day 07: Oct 29, 2019
+
+**Today's Progress**: ES6 Coding Challenge, Finished the coding challenge this morning. My code is no where near as nice as the solution but it got the job done. I feel that I need to build a project using all this JavaScript I have been learning, Before I move on and pack my brain full of more information.
+
+**Thoughts:** Im thinking of making an app for work to keep track of our product leaving the gravel pit. Right now we are just keeping everything in a log book and taking pictures. I think trying to build an app that I could use from the phone to store this data then print it would be helpful. 
+
+**References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
+**Link to work:** [None right now]
