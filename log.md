@@ -60,3 +60,12 @@
 
 **References:** [The Complete JavaScript Course 2019](https://www.udemy.com/the-complete-javascript-course/)                
 **Link to work:** [None right now]
+
+### Day 08: Oct 30, 2019
+
+**Today's Progress**: I started the html part of this gravel pit, load count, project I am going to do. Built the form with some value selectors and radio buttons. I will dive into some CSS tomorrow. 
+
+**Thoughts:** Nothing big today, but it sure felt good to sit down, laptop in hand, and do some coding for myself. I think this is going to be a good learning experience and I am looking forward to it.  
+
+**References:** [None right now]              
+**Link to work:** [None right now]
