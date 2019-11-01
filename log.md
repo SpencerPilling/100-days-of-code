@@ -69,3 +69,12 @@
 
 **References:** [None right now]              
 **Link to work:** [None right now]
+
+### Day 09: Nov 01, 2019
+
+**Today's Progress**: Wrote some CSS to style my HTML form for the gravel pit project. I was surprised that I could remember how to use CSS still. Still have to style the inputs and button then I can move into the real fun of making it work!
+
+**Thoughts:** I don't know why I doubt myself. When I was writing code everything came back to me regarding CSS.  
+
+**References:** [None right now]              
+**Link to work:** [None right now]
