@@ -78,3 +78,12 @@
 
 **References:** [None right now]              
 **Link to work:** [None right now]
+
+### Day 10: Nov 05, 2019
+
+**Today's Progress**: Added the Date and Job name input fields to my gravel pit project. I added some style to the input fields and selectors. Then I looked at my page on mobile, Firefox and Safari have their own default style for these selectors. So I went down a rabbit hole trying to figure out how to override these styles.  
+
+**Thoughts:** Lots of research, little codding. lol.
+
+**References:** [None right now]              
+**Link to work:** [None right now]
