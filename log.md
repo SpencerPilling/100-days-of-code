@@ -87,3 +87,12 @@
 
 **References:** [None right now]              
 **Link to work:** [None right now]
+
+### Day 11: Nov 06, 2019
+
+**Today's Progress**: I started playing around with the JavaScript this morning. Just wrote some basic testing functions to grab the values I want from the DOM inputs. 50% coding and 50% on stack overflow. Cant wait to dive into more. 
+
+**Thoughts:** I was intimidated at first to start scripting. I don't really know what I am doing but I guess that is part of the learning process, It was fun to search for things and figure it out on my own.
+ 
+**References:** [None right now]              
+**Link to work:** [None right now]
