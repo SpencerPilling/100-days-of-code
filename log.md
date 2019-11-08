@@ -96,3 +96,12 @@
  
 **References:** [None right now]              
 **Link to work:** [None right now]
+
+### Day 12: Nov 07, 2019
+
+**Today's Progress**: Styled up a new button for my gravel pit app and finished all the testing functions to grab data from the DOM. Wrote and event listener for the button. Tomorrow I can start building some controller functions to gather and store the data into objects. Having fun with this simple little project.  
+
+**Thoughts:** Had fun styling the new button and getting all the JavaScript testing functions working.
+ 
+**References:** [None right now]              
+**Link to work:** [None right now]
